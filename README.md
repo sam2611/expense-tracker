@@ -30,6 +30,7 @@ MONGODB_URI=your_mongodb_uri
             </ul>
         </li>
         <li>Run the application:
-            <code>npm start</code></li>
-        <li>Access the application at <code>http://localhost:3000</code> in your web browser.</li>
+            <code>client> npm start</code>
+            <code>server> npm run server</code></li>
+        <li>Access the application at <code>http://localhost:5000</code> in your web browser.</li>
     </ol>
